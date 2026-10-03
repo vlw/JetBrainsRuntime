@@ -1,5 +1,11 @@
 [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 
+# Experimental Vulkan color glyph fix
+
+This fork's default branch contains a prototype fix for invisible color emoji
+in JetBrains Runtime's Vulkan renderer. See the
+[screenshots, reproducer, and test results](examples/vulkan-color-glyphs/README.md).
+
 # Welcome to OpenJDK 25 Updates!
 
 The JDK 25 Updates project uses two GitHub repositories.
